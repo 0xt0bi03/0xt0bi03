@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Tobi, a programmer from India.
+
+I currently learning React and Leetcoding with C++.
+
+I am equally interested in producing and breaking applications.
+<hr>
+
+More about myself:
+- My primary gear: ASUS TUF A16
+- Hobbies: Chess, Books, Learning Astronomy.
