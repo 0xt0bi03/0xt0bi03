@@ -21,6 +21,9 @@ I currently learning React and Leetcoding with C++.
 
 I am equally interested in producing and breaking applications.
 <hr>
+
 More about myself:
+
 - My primary gear: ASUS TUF A16
+
 - Hobbies: Chess, Books, Learning Astronomy.
