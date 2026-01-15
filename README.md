@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Tobi 👋
 
 <!--
 **0xt0bi03/0xt0bi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Tobi, a programmer from India.
+I am a student who is learning to code and develop webapps.
 
-I currently learning React and Leetcoding with C++.
+I started coding for the love of the game and the freedom it gives to one to create almost anything.
 
-I am equally interested in producing and breaking applications.
+My primary goal is to learn technologies and implement to solve real world problems.
 <hr>
 
 More about myself:
 
-- My primary gear: ASUS TUF A16
+- My primary gear: ASUS TUF A15
 
-- Hobbies: Chess, Books, Learning Astronomy.
+- Hobbies: Chess, Books, Exercise, Watching Podcasts.
