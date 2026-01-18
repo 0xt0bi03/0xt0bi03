@@ -1,7 +1,7 @@
 ## Hi, I'm Tobi 👋
 
 <!--
-**0xt0bi03/0xt0bi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
