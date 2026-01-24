@@ -22,7 +22,7 @@ I started coding for the love of the game and the freedom it gives to one to cre
 My primary goal is to learn technologies and implement to solve real world problems.
 
 ## Skills:
-HTML CSS JS
+HTML CSS JS PYTHON
 
 <hr>
 
