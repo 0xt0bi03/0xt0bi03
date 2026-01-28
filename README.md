@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ..
 - 💬 Ask me about ..
 - 📫 How to reach me: .
-- 😄 Pronouns: ..............
+- 😄 Pronouns: ..
 -->
 
 I am a student who is learning to code and develop webapps.
