@@ -29,4 +29,4 @@ More about myself:
 
 - My primary gear: ASUS TUF A15
 
-- Hobbies: Chess, Books, Exercise, Watching Podcasts.
+- Hobbies: Chess, Books, Gym, Watching Podcasts.
