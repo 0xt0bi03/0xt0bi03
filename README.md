@@ -23,9 +23,9 @@ My primary goal is to learn technologies and implement to solve real world probl
 ## Skills:
 C++, PYTHON, GIT
 
-<hr>
+<!-- <hr> -->
 
-More about myself:
+## More about myself:
 
 - My primary gear: ASUS TUF A15
 
