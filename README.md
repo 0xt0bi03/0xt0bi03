@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns:
 -->
 
+
+<div align="center">
+  <a href="https://github.com/0xt0bi03">
+    <img src="https://raw.githubusercontent.com/0xt0bi03/0xt0bi03/main/profile-grid.svg" alt="Profile Grid" width="100%" />
+  </a>
+</div>
+
 I am a student who is learning to code and develop webapps.
 
 I started coding for the love of the game and the freedom it gives to one to create almost anything.
