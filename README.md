@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/0xt0bi03">
-    <img src="https://raw.githubusercontent.com/0xt0bi03/0xt0bi03/main/profile-grid.svg" alt="Profile Grid" width="100%" />
+    <img src="https://raw.githubusercontent.com/0xt0bi03/0xt0bi03/main/0xt0bi03-profile-grid.svg" alt="Profile Grid" width="100%" />
   </a>
 </div>
 
