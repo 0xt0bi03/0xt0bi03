@@ -3,8 +3,6 @@
 <!--
 * is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...........................
@@ -22,6 +20,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/0xt0bi03/0xt0bi03/main/0xt0bi03-profile-grid.svg" alt="Profile Grid" width="100%" />
   </a>
 </div>
+
 
 I am a student who is learning to code and develop webapps.
 
