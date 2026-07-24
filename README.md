@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 </div>
 
 
+
+
+
 I am a student who is learning to code and develop webapps.
 
 I started coding for the love of the game and the freedom it gives to one to create almost anything.
